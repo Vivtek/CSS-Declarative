@@ -1,0 +1,14 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/CSS/Declarative.pm
+lib/CSS/Declarative/Comment.pm
+lib/CSS/Declarative/CSS.pm
+lib/CSS/Declarative/Element.pm
+lib/CSS/Declarative/Import.pm
+lib/CSS/Declarative/Rule.pm
+t/00-load.t
+t/manifest.t
+t/pod-coverage.t
+t/pod.t
